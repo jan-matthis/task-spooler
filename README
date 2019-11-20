@@ -2,6 +2,7 @@ Users
 ------------------------
 If you are in a system which understands POSIX and has the GNU toolkit, you
 probably can run:
+ ./configure
  make
  make install
 
